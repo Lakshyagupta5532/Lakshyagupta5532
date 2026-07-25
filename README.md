@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshya Gupta</h1>
-<h3 align="center">Aspiring AI/ML Engineer | B.Tech CSE '28 | IMSEC, AKTU | CGPA: 8.56</h3>
+<h3 align="center">Aspiring AI/ML Engineer | B.Tech CSE '28 | IMSEC, AKTU | CGPA: 8.45</h3>
 
 <br/>
 

@@ -63,6 +63,7 @@
 | 📊 Customer Churn Prediction | Churn prediction using Logistic Regression & Random Forest | Python, Scikit-learn, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/customer-churn-prediction) |
 | 🚢 Titanic Survival Prediction | Compared 5 ML algorithms, best: SVM (82.58%) | Python, Scikit-learn | [GitHub](https://github.com/Lakshyagupta5532/titanic-survival-prediction) |
 | 🤖 Jarvis AI Assistant | Personal AI desktop agent with voice, browser & system control | Python, LangChain, Groq, PyQt5 | *(In Progress)* |
+| ❤️ Heart Disease Prediction | Compared 5 ML algorithms on clinical data, best: Logistic Regression (86.96%) | Python, Scikit-learn, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/heart-disease-prediction) |
 
 ---
 

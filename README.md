@@ -61,7 +61,7 @@
 | 🎬 Movie Recommender | Content-based recommendation using NLP & Cosine Similarity | Python, Scikit-learn, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/movie-recommender-system) \| [Live](https://movie-recommender-system-lakshya-gupta.streamlit.app/) |
 | 📄 Resume ATS Checker | AI-powered resume screening with Gemini LLM API | Python, Gemini API, YAKE, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/resume-ats-checker) \| [Live](https://resume-ats-checker-lakshya-gupta.streamlit.app/) |
 | 📊 Customer Churn Prediction | Churn prediction using Logistic Regression & Random Forest | Python, Scikit-learn, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/customer-churn-prediction) |
-| 🚢 Titanic Survival Prediction | Compared 5 ML algorithms, best: SVM (82.58%) | Python, Scikit-learn | [GitHub](https://github.com/Lakshyagupta5532/titanic-survival-prediction) |
+| 🚢 Titanic Survival Prediction | Compared 5 ML algorithms, best: SVM (82.58%) | Python, Scikit-learn | [GitHub](https://github.com/Lakshyagupta5532/ML-Algorithms-Data-Sets-Analysis) |
 | 🤖 Jarvis AI Assistant | Personal AI desktop agent with voice, browser & system control | Python, LangChain, Groq, PyQt5 | *(In Progress)* |
 | ❤️ Heart Disease Prediction | Compared 5 ML algorithms on clinical data, best: Logistic Regression (86.96%) | Python, Scikit-learn, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/heart-disease-prediction) |
 

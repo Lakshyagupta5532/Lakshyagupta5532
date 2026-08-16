@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshya Gupta</h1>
-<h3 align="center">Aspiring AI/ML Engineer | B.Tech CSE '28 | IMSEC, AKTU | CGPA: 8.45</h3>
+<h3 align="center">Aspiring AI/ML Engineer | B.Tech CSE | IMSEC'28, AKTU | CGPA: 8.45</h3>
 
 <br/>
 
@@ -8,7 +8,6 @@
 - 🚀 Built and deployed **3 ML web apps** on Streamlit Cloud
 - 🤖 Building **Jarvis** — a personal AI desktop assistant using LangChain + Groq
 - 💻 Sharpening **DSA skills in C++** for placements
-- 🌱 Currently exploring **Deep Learning & Computer Vision**
 - 📫 Reach me at **lakshyagupta689@gmail.com**
 
 <br/>
@@ -58,9 +57,9 @@
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| 🎬 Movie Recommender | Content-based recommendation using NLP & Cosine Similarity | Python, Scikit-learn, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/movie-recommender-system) \| [Live](https://movie-recommender-system-lakshya-gupta.streamlit.app/) |
-| 📄 Resume ATS Checker | AI-powered resume screening with Gemini LLM API | Python, Gemini API, YAKE, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/resume-ats-checker) \| [Live](https://resume-ats-checker-lakshya-gupta.streamlit.app/) |
-| 📊 Customer Churn Prediction | Churn prediction using Logistic Regression & Random Forest | Python, Scikit-learn, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/customer-churn-prediction) |
+| 🎬 Movie Recommender | Content-based recommendation using TF-IDF & Cosine Similarity | Python, Scikit-learn, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/movie-recommender-system) \| [Live](https://movie-recommender-system-lakshya-gupta.streamlit.app/) |
+| 📄 Resume ATS Checker | AI-powered resume screening using Gemini API + YAKE keyword extraction | Python, Gemini API, YAKE, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/resume-ats-checker) \| [Live](https://resume-ats-checker-lakshya-gupta.streamlit.app/) |
+| 📊 Customer Churn Prediction | Churn prediction using Logistic Regression & Random Forest | Python, Scikit-learn | [GitHub](https://github.com/Lakshyagupta5532/ML-Algorithms-Data-Sets-Analysis) |
 | 🚢 Titanic Survival Prediction | Compared 5 ML algorithms, best: SVM (82.58%) | Python, Scikit-learn | [GitHub](https://github.com/Lakshyagupta5532/ML-Algorithms-Data-Sets-Analysis) |
 | 🤖 Jarvis AI Assistant | Personal AI desktop agent with voice, browser & system control | Python, LangChain, Groq, PyQt5 | *(In Progress)* |
 | ❤️ Heart Disease Prediction | Compared 5 ML algorithms on clinical data, best: Logistic Regression (86.96%) | Python, Scikit-learn, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/heart-disease-prediction) |
@@ -69,17 +68,19 @@
 
 ### 📊 Data Analysis Portfolio
 
-Exploring real-world datasets through EDA, feature engineering & statistical analysis.
+Exploring real-world datasets through EDA, feature engineering, model building & evaluation — Bank Marketing, Loan Approval, Credit Card Fraud, Titanic & Customer Churn.
 
-👉 [View Portfolio →](https://github.com/Lakshyagupta5532/data-analysis-portfolio)
+👉 [View Portfolio →](https://github.com/Lakshyagupta5532/ML-Algorithms-Data-Sets-Analysis)
 
 ---
 
 ### 🏅 Certifications
 
 - 🟢 [AI Essentials — Cisco](https://www.credly.com/badges/9ce72b37-abaa-498a-bc41-b52852deb76d/public_url)
-- 🔵 Data Analytics Job Simulation — Deloitte (Forage) | July 2026
-- 🟡 Introduction to Artificial Intelligence — IBM SkillsBuild | July 2026
+- 🟣 [Data Analytics Essentials — Cisco](https://drive.google.com/file/d/1HpxMLHCDEFpL0GwQTBwFuGps0AAMp178/view?usp=sharing)
+- 🔵 [Data Analytics Job Simulation — Deloitte (Forage)](https://drive.google.com/file/d/1fH2h1nQbGzKJ9pKM4Gi_SlGNjeSHT-jU/view?usp=drive_link) | July 2026
+- 🟡 [Introduction to Artificial Intelligence — IBM SkillsBuild](https://drive.google.com/file/d/1GWLnIOvd08KjLm6F9xNdpNL6omI-9VLl/view?usp=drive_link) | July 2026
+
 ---
 
 ### 🔗 Connect with me

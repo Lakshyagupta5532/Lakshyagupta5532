@@ -62,8 +62,8 @@ Exploring real-world datasets through EDA, feature engineering, model building &
 
 ### 🏅 Certifications
 
-- 🟢 [AI Essentials — Cisco](https://www.credly.com/badges/9ce72b37-abaa-498a-bc41-b52852deb76d/public_url)
-- 🟣 [Data Analytics Essentials — Cisco](https://drive.google.com/file/d/1HpxMLHCDEFpL0GwQTBwFuGps0AAMp178/view?usp=sharing)
+- 🟢 [AI Essentials — Cisco](https://www.credly.com/badges/9ce72b37-abaa-498a-bc41-b52852deb76d/public_url) | Apr 2026
+- 🟣 [Data Analytics Essentials — Cisco](https://drive.google.com/file/d/1HpxMLHCDEFpL0GwQTBwFuGps0AAMp178/view?usp=sharing)| June 2026
 - 🔵 [Data Analytics Job Simulation — Deloitte (Forage)](https://drive.google.com/file/d/1fH2h1nQbGzKJ9pKM4Gi_SlGNjeSHT-jU/view?usp=drive_link) | July 2026
 - 🟡 [Introduction to Artificial Intelligence — IBM SkillsBuild](https://drive.google.com/file/d/1GWLnIOvd08KjLm6F9xNdpNL6omI-9VLl/view?usp=drive_link) | July 2026
 

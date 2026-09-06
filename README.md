@@ -6,8 +6,9 @@
 - 🤖 Building **end-to-end AI/ML projects** — from data to deployment
 - 🧠 Working with **NLP, Classification, Regression, LLM APIs**
 - 🚀 Built and deployed **3 ML web apps** on Streamlit Cloud
+- 📚 Learning **Deep Learning** — ANN & CNN completed, practicing via notebooks
 - 🤖 Building **Jarvis** — a personal AI desktop assistant using LangChain + Groq
-- 💻 Sharpening **DSA skills in C++** for placements
+- 💻 **150+ DSA problems** solved on LeetCode (C++), maintaining a 100-day streak
 - 📫 Reach me at **lakshyagupta689@gmail.com**
 
 <br/>
@@ -43,18 +44,20 @@
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
+| ✈️ Predictive Maintenance — RUL Prediction | Predicts Remaining Useful Life of aircraft engines (NASA C-MAPSS FD001) using GroupKFold CV & Gradient Boosting — test MAE 18.65 cycles | Python, Scikit-learn, Streamlit | [Live](https://predictive-maintenance-rul-fd001.streamlit.app/) |
 | 🎬 Movie Recommender | Content-based recommendation using TF-IDF & Cosine Similarity | Python, Scikit-learn, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/movie-recommender-system) \| [Live](https://movie-recommender-system-lakshya-gupta.streamlit.app/) |
 | 📄 Resume ATS Checker | AI-powered resume screening using Gemini API + YAKE keyword extraction | Python, Gemini API, YAKE, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/resume-ats-checker) \| [Live](https://resume-ats-checker-lakshya-gupta.streamlit.app/) |
+| 💳 Credit Card Fraud Detection | Imbalanced classification with threshold tuning — F1 0.847 (precision 0.915, recall 0.789) | Python, Scikit-learn, XGBoost | [GitHub](https://github.com/Lakshyagupta5532/ML-Algorithms-Data-Sets-Analysis) |
 | 📊 Customer Churn Prediction | Churn prediction using Logistic Regression & Random Forest | Python, Scikit-learn | [GitHub](https://github.com/Lakshyagupta5532/ML-Algorithms-Data-Sets-Analysis) |
 | 🚢 Titanic Survival Prediction | Compared 5 ML algorithms, best: SVM (82.58%) | Python, Scikit-learn | [GitHub](https://github.com/Lakshyagupta5532/ML-Algorithms-Data-Sets-Analysis) |
 | 🤖 Jarvis AI Assistant | Personal AI desktop agent with voice, browser & system control | Python, LangChain, Groq, PyQt5 | *(In Progress)* |
-| ❤️ Heart Disease Prediction | Compared 5 ML algorithms on clinical data, best: Logistic Regression (86.96%) | Python, Scikit-learn, Streamlit | [GitHub](https://github.com/Lakshyagupta5532/heart-disease-prediction) |
+| ❤️ Heart Disease Prediction | Compared 5 ML algorithms on clinical data, best: Logistic Regression (86.96%) | Python, Scikit-learn | [GitHub](https://github.com/Lakshyagupta5532/heart-disease-prediction) |
 
 ---
 
 ### 📊 Data Analysis Portfolio
 
-Exploring real-world datasets through EDA, feature engineering, model building & evaluation — Bank Marketing, Loan Approval, Credit Card Fraud, Titanic & Customer Churn.
+Exploring real-world datasets through EDA, feature engineering, model building & evaluation — Bank Marketing, Loan Approval, Credit Card Fraud, Titanic, Customer Churn, IPL data analysis, and NLP (Bag of Words, TF-IDF).
 
 👉 [View Portfolio →](https://github.com/Lakshyagupta5532/ML-Algorithms-Data-Sets-Analysis)
 

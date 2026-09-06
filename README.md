@@ -6,9 +6,7 @@
 - 🤖 Building **end-to-end AI/ML projects** — from data to deployment
 - 🧠 Working with **NLP, Classification, Regression, LLM APIs**
 - 🚀 Built and deployed **3 ML web apps** on Streamlit Cloud
-- 📚 Learning **Deep Learning** — ANN & CNN completed, practicing via notebooks
-- 🤖 Building **Jarvis** — a personal AI desktop assistant using LangChain + Groq
-- 💻 **150+ DSA problems** solved on LeetCode (C++), maintaining a 100-day streak
+- 💻 **150+ DSA problems** solved on LeetCode (C++)
 - 📫 Reach me at **lakshyagupta689@gmail.com**
 
 <br/>
@@ -59,7 +57,7 @@
 
 Exploring real-world datasets through EDA, feature engineering, model building & evaluation — Bank Marketing, Loan Approval, Credit Card Fraud, Titanic, Customer Churn, IPL data analysis, and NLP (Bag of Words, TF-IDF).
 
-👉 [View Portfolio →](https://github.com/Lakshyagupta5532/ML-Algorithms-Data-Sets-Analysis)
+👉 [View Portfolio →](https://github.com/Lakshyagupta5532/ML-DL-Algorithms-Datasets-Analysis)
 
 ---
 
